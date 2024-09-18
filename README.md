@@ -1,4 +1,4 @@
-# shell-scripting-for-devops
+# Shell Scripting For DevOps
 
 1. **Introduction to Bash**
     - **What is Bash**
