@@ -6,3 +6,7 @@
 2. **Basic Commands**
     - **Basic_Commands**
     - **Understanding_file_permissions**
+3. **Variables and Data Types**
+    - **Declaring_and_using_variables**
+    - **String_manipulation**
+    - **Numeric_Operations**
