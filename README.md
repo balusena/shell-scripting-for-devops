@@ -52,6 +52,10 @@
 16. **Interacting with External Commands**
      - **Running external commands from scripts**
      - **Capturing and using command output**
+17. **Real World Examples**
+     - **Practical scripts for common tasks(log analysis, data processing, system monitoring)**
+     - **Integration with other tools and technologies**
+     
      
     
     
