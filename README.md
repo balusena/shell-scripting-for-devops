@@ -27,6 +27,21 @@
     - **Reading_from_and_writing_to_files**
     - **Checking_file_existence_and_type**
     - **File_manipulation_commands_(sed,awk)**
+9. **Input Output Redirection**
+    - **Redirecting_standard_input_and_output**
+    - **Using_pipes_for_command_chaining**
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
