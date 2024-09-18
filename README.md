@@ -36,6 +36,9 @@
 11. **Error Handling**
      - **Handling_errors_with_exit_codes**
      - **Using_trap_for_signal_handling**
+12. **Environment Variables**
+     - **Built-in_environment_variables**
+     - **Custom_environment_variables**
     
     
     
