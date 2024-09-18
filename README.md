@@ -58,6 +58,7 @@
 18. **Best Practices**
      - **Coding standards**
      - **Code reviews and collaborations**
+19. **Linux cheat Sheet**
 
      
      
