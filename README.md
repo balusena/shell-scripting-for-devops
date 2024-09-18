@@ -39,6 +39,9 @@
 12. **Environment Variables**
      - **Built-in_environment_variables**
      - **Custom_environment_variables**
+13. **Debugging Techniques**
+     - **Using_echo_and_printf_for_debugging**
+     - **Setting_and_using_breakpoints**
     
     
     
