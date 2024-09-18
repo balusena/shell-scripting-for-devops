@@ -16,6 +16,10 @@
 5. **Loops**
     - **for_while_until_loops**
     - **loop_control_statements_(break,continue)**
+6. **Functions**
+    - **Defining_and_using_functions**
+    - **Passing_arguments_to_functions**
+    - **Returning_values_from_functions**
     
     
     
