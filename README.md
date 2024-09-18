@@ -23,6 +23,10 @@
 7. **Arrays**
     - **Declaring_and_accessing_arrays** 
     - **Array_manipulation**
+8. **File Handling**
+    - **Reading_from_and_writing_to_files**
+    - **Checking_file_existence_and_type**
+    - **File_manipulation_commands_(sed,awk)**
     
     
     
