@@ -46,6 +46,10 @@
      - **Managing_processes(ps,kill,jobs)**
      - **Jobs_scheduling_with_cron**
      - **Signal_handling**
+15. **Security Best Practices**
+     - **Writing_secure_scripts**
+     - **Avoiding_common_pitfalls**
+     
     
     
     
