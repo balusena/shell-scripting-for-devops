@@ -33,6 +33,9 @@
 10. **Regular Expressions**
      - **Basic_regex_patterns**
      - **grep, sed, awk for pattern matching and text processing**
+11. **Error Handling**
+     - **Handling_errors_with_exit_codes**
+     - **Using_trap_for_signal_handling**
     
     
     
