@@ -49,6 +49,9 @@
 15. **Security Best Practices**
      - **Writing_secure_scripts**
      - **Avoiding_common_pitfalls**
+16. **Interacting with External Commands**
+     - **Running external commands from scripts**
+     - **Capturing and using command output**
      
     
     
