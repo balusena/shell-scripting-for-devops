@@ -55,6 +55,10 @@
 17. **Real World Examples**
      - **Practical scripts for common tasks(log analysis, data processing, system monitoring)**
      - **Integration with other tools and technologies**
+18. **Best Practices**
+     - **Coding standards**
+     - **Code reviews and collaborations**
+
      
      
     
