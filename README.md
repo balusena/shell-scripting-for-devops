@@ -42,6 +42,10 @@
 13. **Debugging Techniques**
      - **Using_echo_and_printf_for_debugging**
      - **Setting_and_using_breakpoints**
+14. **Advanced Scripting Techniques**
+     - **Managing_processes(ps,kill,jobs)**
+     - **Jobs_scheduling_with_cron**
+     - **Signal_handling**
     
     
     
