@@ -30,6 +30,9 @@
 9. **Input Output Redirection**
     - **Redirecting_standard_input_and_output**
     - **Using_pipes_for_command_chaining**
+10. **Regular Expressions**
+     - **Basic_regex_patterns**
+     - **grep, sed, awk for pattern matching and text processing**
     
     
     
