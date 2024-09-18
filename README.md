@@ -20,7 +20,9 @@
     - **Defining_and_using_functions**
     - **Passing_arguments_to_functions**
     - **Returning_values_from_functions**
-    
+7. **Arrays**
+    - **Declaring_and_accessing_arrays** 
+    - **Array_manipulation**
     
     
     
