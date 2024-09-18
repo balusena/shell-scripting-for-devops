@@ -1,2 +1,5 @@
 # shell-scripting-for-devops
-This repository covers the complete Shell scripting fundamentals along with examples required for a DevOps Engineer.
+
+1. **Introduction to Bash**
+    - **What is Bash**
+    - **Importance of shell scripting in automation**
